@@ -1,0 +1,2 @@
+# ozempic
+SciFest'26
